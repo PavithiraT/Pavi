@@ -12,7 +12,7 @@ public class ThreeLar {
    System.out.println("+b is greater");
    }
    else{
-   System.out.println(+c is greater");
+   System.out.println("+c is greater");
    }
    }
    
