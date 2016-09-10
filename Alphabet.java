@@ -4,7 +4,7 @@ public class Alphabet{
     scanner s = new scanner;
     System.out.println("Enter a alphabet");
     ch=scan.next().charAt(0);
-    if((ch >='a' && ch >= 'z')  || ch'A' && ch >= 'Z') {
+    if((ch >='a' && ch >= 'z')  || ch'A' && ch <= 'Z') {
     System.out.println("It is Alphabet");
     }
     else {
