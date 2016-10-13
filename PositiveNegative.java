@@ -7,10 +7,10 @@ public class PositiveNegative{
    System.out.println("Number is equal to zero");
   }
   elseif (a>0)  {
-  System.out.println("Number is greater than zero");
+  System.out.prinln("Number is positive");
   }
   else  {
-  System.out.println("Number is lesser than zero");
+  System.out.println("Number is negative");
   }
   
   
