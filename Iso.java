@@ -1,3 +1,4 @@
+public class Iso{
 static boolean isIsomorphic(String s, String t) {
 
 s= s.toLowerCase();
@@ -47,4 +48,5 @@ if(s.equalsIgnoreCase(t)){
     }
 
     return true;
-}   
+} 
+}
